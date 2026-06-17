@@ -1,5 +1,7 @@
 # 🛰️ CubeSat Solar Panel Fault Detection & Isolation System (FDIR)
 
+This is the work for a published paper: https://www.researchgate.net/publication/405039288_Hybrid_AI-Hardware_Decision_Framework_for_Autonomous_Fault_Prevention_in_Extreme_Environments_A_CubeSat_Case_Study
+
 ## 📋 Project Overview
 
 **Autonomous AI-powered protection system for 3U CubeSat solar panels using dual-layer hardware comparators and Random Forest machine learning.**
